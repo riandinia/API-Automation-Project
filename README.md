@@ -1,30 +1,33 @@
 # API-Automation-Project
 
-Digital Skola API Automation Testing using Dependencies of SuperTest, Mocha, and Chai
+This API Automation Testing project is using dependencies of SuperTest, Mocha, and Chai
 
 
 ### How to Run This API Automation Testing
-1. Make sure to check the installation of Node.js and npm. 
+1. Make sure to check the installation of Node.js and npm is correct or verified. 
 2. Project initialization ---> `npm init -y` 
-3. Install dependencies of using npm install
+3. Install dependencies with using npm install 
 
-`npm install supertest --save-dev` (SuperTest)
+SuperTest ---> `npm install supertest --save-dev`
 
-`npm install mocha --save-dev` (Mocha) 
+Mocha ---> `npm install mocha --save-dev` 
 
-`npm i chai@4.3.10 --save-dev` (Chai)
+Chai ---> `npm i chai@4.3.10 --save-dev`
 
-5. If you would like to verify your installations, please kindly check on **package.json** file.
-6. Run command on Terminal for running API Automation testing ---> `npm run test:mocha`
+Mochawesome ---> `npm install --save-dev mochawesome`
+
+4. If you would like to verify your installations, please kindly check on **package.json** file, as shown below. 
+
+![image](https://github.com/riandinia/API-Automation-Project/assets/159536290/2ec2a763-4f12-42a3-81e8-72b3afde3b90)
+
+5. Run command on Terminal for running API Automation testing ---> `npm run test:mocha`
 
 
 ### Mochawesome Report
 1. Generated report shall be restored in **Report** folder.
-2. Open the report that has the name of **pass_February_22_2024-TestCase_01_Function-report.html**.
+2. Open the report that has the name as shown on this example file: **pass_March_2_2024-TestCase_01_Function-report.html**.
 
 
 This snip below is shown as a reference for the result of **Mochawesome Report**.
 
-
-
-<img width="938" alt="Screenshot 2024-02-22 at 15 19 31" src="https://github.com/riandinia/API-Automation-Project/assets/159536290/f7c3ab36-3767-44fa-aeaf-907ffaf5452d">
+![image](https://github.com/riandinia/API-Automation-Project/assets/159536290/4e484d80-1a20-40e4-9727-4a81b9b97f87)
