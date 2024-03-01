@@ -4,7 +4,7 @@ This API Automation Testing project is using dependencies of SuperTest, Mocha, a
 
 
 ### How to Run This API Automation Testing
-1. Make sure to check the installation of Node.js and npm is correct or verified. 
+1. Make sure to check the installations of Node.js and npm are correct or verified. 
 2. Project initialization ---> `npm init -y` 
 3. Install dependencies with using npm install 
 
